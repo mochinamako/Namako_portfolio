@@ -1,4 +1,4 @@
-@charset "UTF-8";
+f@charset "UTF-8";
 
 * {
     margin: 0;
@@ -54,6 +54,7 @@ main {
 }
 
 .gall-main {
+    dysplay: flex;
     height: 2500px;
 }
 
