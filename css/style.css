@@ -60,7 +60,7 @@ main {
 
 section {
     background: #EEE;
-/*     flex: 3; */
+    flex: 3;
     padding: 50px;
 }
 
