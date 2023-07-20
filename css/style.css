@@ -54,7 +54,7 @@ main {
 }
 
 .gall-main {
-    dysplay: flex;
+    dysplay: block;
     height: 2500px;
 }
 
