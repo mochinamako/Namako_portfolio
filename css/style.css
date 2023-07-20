@@ -83,7 +83,7 @@ footer {
     margin: auto;
     padding: 30px;
     text-align: center;
-    position: relative;
+    position: sticky;
     bottom: 0;
 }
 
