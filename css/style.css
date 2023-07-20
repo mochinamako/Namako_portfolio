@@ -59,7 +59,7 @@ main {
 
 section {
     background: #EEE;
-    flex: 3;
+    flex: relative;
     padding: 50px;
 }
 
