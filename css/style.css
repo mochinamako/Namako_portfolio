@@ -54,8 +54,8 @@ main {
 }
 
 .gall-main {
-/*     dysplay: block; */
-    height: 2000px;
+/*     dysplay: block; 今のところこれを入れても変化は見られない*/
+    height: auto;
 }
 
 section {
